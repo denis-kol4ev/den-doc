@@ -24,7 +24,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    jekyll (4.4.0)
+    jekyll (4.4.1)
       addressable (~> 2.4)
       base64 (~> 0.2)
       colorator (~> 1.0)
@@ -43,6 +43,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-feed (0.17.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -66,6 +68,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    minima (2.5.2)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.1)
@@ -90,8 +96,9 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
-  jekyll (~> 4.4.0)
+  jekyll (~> 4.4.1)
   just-the-docs (= 0.10.1)
+  minima
 
 BUNDLED WITH
    2.5.9
