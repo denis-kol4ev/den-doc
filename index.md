@@ -3,17 +3,13 @@ title: Home
 layout: home
 ---
 
-{% for post in site.posts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
-  </article>
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
