@@ -1,7 +1,7 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
-#theme: just-the-docs
-theme: minima
+theme: just-the-docs
+#theme: minima
 
 #url: https://just-the-docs.github.io
 url: https://denis-kol4ev.github.io
