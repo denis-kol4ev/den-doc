@@ -3,6 +3,7 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 #theme: minima
 
+baseurl: "/den-docs"
 #url: https://just-the-docs.github.io
 url: https://denis-kol4ev.github.io
 
