@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: NZ Bird of the Year Competition
 image: /images/robin.jpg
 author: CawCannon
