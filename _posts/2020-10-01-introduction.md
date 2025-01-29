@@ -1,6 +1,5 @@
 ---
 title: Welcome to CawCannon
-image: /images/fiordland.jpg
 author: CawCannon
 tags:
     - Conservation

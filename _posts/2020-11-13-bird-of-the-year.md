@@ -1,6 +1,5 @@
 ---
 title: NZ Bird of the Year Competition
-image: /images/robin.jpg
 author: CawCannon
 tags:
     - Conservation
