@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Welcome to CawCannon
 image: /images/fiordland.jpg
 author: CawCannon
