@@ -1,9 +1,5 @@
 ---
 title: NZ Bird of the Year Competition
-author: CawCannon
-tags:
-    - Conservation
-    - Awareness
 ---
 ## About the competition
 Here in Aotearoa/New Zealand, we love our unique wildlife. In fact, most of it consists of birds, with no natural predators existing until European settlement. Unfortunately, many of these wonderful creatures had evolved - often in strange ways - to manage without the pressures of predators. This has led to many flightless birds, and a number of others with high curiosity, which has made them easy prey for newly introduced predators.

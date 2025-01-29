@@ -1,9 +1,5 @@
 ---
 title: Welcome to CawCannon
-author: CawCannon
-tags:
-    - Conservation
-    - History
 ---
 ## Welcome to our site!  
 

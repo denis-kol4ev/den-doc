@@ -1,9 +1,5 @@
 ---
 title: Seabirds in Peril
-author: CawCannon
-tags:
-    - Awareness
-    - Sea birds
 ---
 
 ## Introduction
