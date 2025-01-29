@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Seabirds in Peril
 image: /images/gull.jpg
 author: CawCannon

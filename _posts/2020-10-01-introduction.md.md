@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Welcome to CawCannon
 image: /images/fiordland.jpg
 author: CawCannon
